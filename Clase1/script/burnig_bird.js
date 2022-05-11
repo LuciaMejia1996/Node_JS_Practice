@@ -30,4 +30,4 @@ http
   })
   .listen(port);
 
-console.log(`${hostname}:${port}/name;burningbird`);
+console.log(`${hostname}:${port}/name:burningbird`);
